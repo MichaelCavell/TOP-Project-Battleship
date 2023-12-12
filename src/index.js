@@ -2,6 +2,7 @@
 /* eslint-disable no-plusplus */
 import { Game } from './js/game'
 import { Ship } from './js/ship'
+import './css/styles.css'
 
 const game = new Game()
 
