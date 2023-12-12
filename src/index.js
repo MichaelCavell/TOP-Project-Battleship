@@ -1,8 +1,8 @@
 /* eslint-disable no-param-reassign */
 /* eslint-disable no-plusplus */
+import './styles.css'
 import { Game } from './js/game'
 import { Ship } from './js/ship'
-import './css/styles.css'
 
 const game = new Game()
 
